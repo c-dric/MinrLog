@@ -1,6 +1,7 @@
 name: MinrLog
 main: org.minr.MinrLog.Log
 version: 1.0
+author: Nickman87
 commands:
    log:
       description: Write an entry to the log
